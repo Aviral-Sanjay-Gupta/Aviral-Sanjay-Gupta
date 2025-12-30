@@ -6,8 +6,7 @@
 
 - 🌱 I'm currently learning **JAVA, SpringBoot, and evolving AI/ML techniques applied to real‑world products.**
 
-- 👯 I'm looking to collaborate on **full‑stack web applications, micro‑frontend architectures, AI‑powered products, and open‑source tooling around React, frontend scalability, and developer experience.
-**
+- 👯 I'm looking to collaborate on **full‑stack web applications, micro‑frontend architectures, AI‑powered products, and open‑source tooling around React, frontend scalability, and developer experience.**
 
 - 🤝 I'm looking for help with **learning System Design.**
 
