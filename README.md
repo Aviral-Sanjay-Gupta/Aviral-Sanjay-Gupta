@@ -2,8 +2,6 @@
 
 ### A passionate Developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Aviral-Sanjay-Gupta&label=Profile views&color=0e75b6&style=flat" alt="Aviral-Sanjay-Gupta" /> </p>
-
 - 🔭 I'm currently working on **building scalable micro‑frontend applications at Verint using React, TypeScript, and Single‑SPA.**
 
 - 🌱 I'm currently learning **JAVA, SpringBoot, and evolving AI/ML techniques applied to real‑world products.**
@@ -39,21 +37,3 @@
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,npm,ts,py,java,figma,ps,ai,sklearn,opencv,git,github,md,mysql,nginx,postman,tensorflow,webpack,vercel,vite,vscode&perline=12&theme=dark" alt="My Skills" />
   </a>
 </p>
-
----
-
-<h3 align="center">📊 GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Aviral-Sanjay-Gupta" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Aviral-Sanjay-Gupta&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Aviral-Sanjay-Gupta" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&background=00000000" alt="Aviral-Sanjay-Gupta" />
-</p>
-
-[![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta)](https://github.com/Aviral-Sanjay-Gupta)
