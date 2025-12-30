@@ -13,8 +13,7 @@
 
 - 🤝 I'm looking for help with **learning System Design.**
 
-- 💬 Ask me about **
-React & TypeScript, Single‑SPA, micro‑frontends, Import Maps, SystemJS, full‑stack development, and AI/ML projects.**
+- 💬 Ask me about **React & TypeScript, Single‑SPA, micro‑frontends, Import Maps, SystemJS, full‑stack development, and AI/ML projects.**
 
 - 📫 How to reach me **aviralgupta076@gmail.com**
 
@@ -37,12 +36,8 @@ React & TypeScript, Single‑SPA, micro‑frontends, Import Maps, SystemJS, full
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,ts,py,java,figma,canva,ps,ai,numpy,pandas,sklearn,matplotlib,seaborn,git,github,mysql,nginx,postman,tensorflow,webpack&perline=12&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,npm,ts,py,java,figma,ps,ai,sklearn,opencv,git,github,md,mysql,nginx,postman,tensorflow,webpack,vercel,vite,vscode&perline=12&theme=dark" alt="My Skills" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Single%20SPA-yellow?style=for-the-badge&logo=single-spa&logoColor=white" alt="Single SPA" />
 </p>
 
 ---
@@ -60,3 +55,5 @@ React & TypeScript, Single‑SPA, micro‑frontends, Import Maps, SystemJS, full
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&background=00000000" alt="Aviral-Sanjay-Gupta" />
 </p>
+
+[![Aviral's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta)](https://github.com/Aviral-Sanjay-Gupta)
