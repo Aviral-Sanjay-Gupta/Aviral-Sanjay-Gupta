@@ -54,7 +54,7 @@
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Aviral-Sanjay-Gupta?cardType=level-alternate&theme=tokyonight&fontFamily=Noto%20Sans%20Egyptian%20Hieroglyphs&preferLogin=false" alt="Contribution Stats" />
+  <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Aviral-Sanjay-Gupta?cardType=level&theme=tokyonight&fontFamily=Architects%20Daughter&preferLogin=false" alt="Contribution Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
