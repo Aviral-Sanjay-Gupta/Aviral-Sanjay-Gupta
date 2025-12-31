@@ -47,7 +47,7 @@
 
 <div align="center">
   <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
 
 <div align="center">
