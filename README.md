@@ -81,18 +81,6 @@
 
 ### 🤝 Beyond the Stars
 
-<div align="center">
-  <a href="https://github.com/Aviral-Sanjay-Gupta">
-    <img src="https://img.shields.io/badge/Explorer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/aviral-sanjay-gupta/">
-    <img src="https://img.shields.io/badge/Visionary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:aviralgupta076@gmail.com">
-    <img src="https://img.shields.io/badge/Interstellar_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-</div>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Aviral-Sanjay-Gupta&color=9e7bb5&style=plastic" alt="Stardust Visitors" />
 </p>
