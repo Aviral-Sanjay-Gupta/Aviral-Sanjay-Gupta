@@ -48,13 +48,13 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Aviral-Sanjay-Gupta&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=radical&hide_border=true&layout=compact&langs_count=8&card_width=400" alt="Top Languages" />
-  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&limit=5&theme=shadow_green&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
+  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
