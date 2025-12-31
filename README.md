@@ -46,15 +46,15 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&title_font_size=40&text_font_size=32&icon_size=40" alt="GitHub Stats" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=algolia&hide_border=true&count_private=true&include_all_commits=true&title_font_size=40&text_font_size=32&icon_size=40" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-<img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=algolia&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Aviral-Sanjay-Gupta&theme=algolia&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
