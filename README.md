@@ -6,8 +6,6 @@
 
 </div>
 
-### A passionate Developer
-
 - 🔭 I'm currently working on **building scalable micro‑frontend applications at Verint using React, TypeScript, and Single‑SPA.**
 
 - 🌱 I'm currently learning **JAVA, SpringBoot, and evolving AI/ML techniques applied to real‑world products.**
@@ -49,7 +47,7 @@
 
 <div align="center">
   <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=7&card_width=400" alt="Top Languages" />
+  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&card_width=400" alt="Top Languages" />
 </div>
 
 <div align="center">
