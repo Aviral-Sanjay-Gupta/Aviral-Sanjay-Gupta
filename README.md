@@ -1,5 +1,11 @@
 # Hi 👋, I'm Aviral Sanjay Gupta
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Micro-Frontend+Architect+%E2%9A%A1;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Building+Scalable+Solutions+%F0%9F%8C%90)](https://git.io/typing-svg)
+
+</div>
+
 ### A passionate Developer
 
 - 🔭 I'm currently working on **building scalable micro‑frontend applications at Verint using React, TypeScript, and Single‑SPA.**
@@ -27,7 +33,7 @@
 <a href="https://x.com/aviral_sanjay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/aviral_sanjay" height="30" width="40" /></a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <h3 align="center">🛠️ Tech Stack</h3>
 
@@ -37,38 +43,44 @@
   </a>
 </p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 📊 Galactic Insights
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-Sanjay-Gupta&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
-</div>
-
-<br/>
+<h2 align="center">🏆 GitHub Trophies</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=dracula&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-profile-trophy.vercel.app/?username=Aviral-Sanjay-Gupta&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 🤝 Beyond the Stars
+<h2 align="center">📊 GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aviral-Sanjay-Gupta&color=9e7bb5&style=plastic" alt="Stardust Visitors" />
-</p>
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&limit=5&theme=radical&combine_all_yearly_contributions=true&hide_border=true" alt="Contribution Stats" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-Sanjay-Gupta&custom_title=Aviral's%20Contribution%20Graph&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+  
+### 💫 Profile Views & Engagement
+
+![Profile Views](https://komarev.com/ghpvc/?username=Aviral-Sanjay-Gupta&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%" />
+
+</div>
