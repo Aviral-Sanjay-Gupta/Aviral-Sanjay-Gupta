@@ -48,12 +48,12 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://niharikabhavaraju-github-readme-streak-stats.vercel.app/?user=Aviral-Sanjay-Gupta&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
   <img width="49%" src="https://awesome-github-stats.azurewebsites.net/user-stats/Aviral-Sanjay-Gupta?cardType=level&theme=tokyonight&fontFamily=ABeeZee&preferLogin=false" alt="Contribution Stats" />
 </div>
 
