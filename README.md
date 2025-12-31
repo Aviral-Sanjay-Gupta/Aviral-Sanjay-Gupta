@@ -1,3 +1,15 @@
+<div align="center">
+  <img src="./github_banner.png" width="100%" alt="Aviral Sanjay Gupta" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe;Architecting+the+Future+of+Web;AI+%26+Micro-frontend+Maestro;React+%26+TypeScript+Addict" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aviral-Sanjay-Gupta&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
+</div>
+
 # Hi 👋, I'm Aviral Sanjay Gupta
 
 ### A passionate Developer
@@ -35,4 +47,52 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,npm,ts,py,java,figma,ps,ai,sklearn,opencv,git,github,md,mysql,nginx,postman,tensorflow,webpack,vercel,vite,vscode&perline=12&theme=dark" alt="My Skills" />
   </a>
+</p>
+
+---
+
+### 📊 Galactic Insights
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aviral-Sanjay-Gupta&theme=dracula&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aviral-Sanjay-Gupta&theme=dracula&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🤝 Beyond the Stars
+
+<div align="center">
+  <a href="https://github.com/Aviral-Sanjay-Gupta">
+    <img src="https://img.shields.io/badge/Explorer-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/aviral-sanjay-gupta/">
+    <img src="https://img.shields.io/badge/Visionary-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:aviralgupta076@gmail.com">
+    <img src="https://img.shields.io/badge/Interstellar_Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Aviral-Sanjay-Gupta&color=9e7bb5&style=plastic" alt="Stardust Visitors" />
 </p>
