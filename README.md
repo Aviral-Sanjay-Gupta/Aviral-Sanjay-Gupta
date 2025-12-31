@@ -1,15 +1,3 @@
-<div align="center">
-  <img src="./github_banner.png" width="100%" alt="Aviral Sanjay Gupta" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=28&pause=1000&color=A020F0&center=true&vCenter=true&width=600&lines=Welcome+to+my+Digital+Universe;Architecting+the+Future+of+Web;AI+%26+Micro-frontend+Maestro;React+%26+TypeScript+Addict" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aviral-Sanjay-Gupta&theme=radical&no-frame=true&column=7&margin-w=15" alt="GitHub Trophies" />
-</div>
-
 # Hi 👋, I'm Aviral Sanjay Gupta
 
 ### A passionate Developer
