@@ -46,8 +46,8 @@
 <h2 align="center">📊 GitHub Statistics</h2>
 
 <div align="center">
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&card_width=400" alt="GitHub Stats" />
-  <img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=donut&langs_count=6&card_width=400" alt="Top Languages" />
+  <img height="195px" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aviral-Sanjay-Gupta&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="195px" width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
