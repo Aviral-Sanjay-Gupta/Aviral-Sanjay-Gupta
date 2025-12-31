@@ -50,11 +50,11 @@
 </div>
 
 <div align="center">
-<img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
+<img width="49%" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&layout=compact&langs_count=6&title_font_size=20&text_font_size=16&icon_size=20" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="70%" src="https://github-readme-streak-stats-salesp07.vercel.app?user=Aviral-Sanjay-Gupta&theme=tokyonight&hide_border=true&title_font_size=20&text_font_size=16&icon_size=20" alt="GitHub Streak" />
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
